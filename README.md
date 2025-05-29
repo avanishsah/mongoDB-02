@@ -28,4 +28,30 @@
 
 
 
+#Medium
+1. Total Quantity of Products by Supplier
+<img width="800" alt="12" src="https://github.com/user-attachments/assets/d59b2a1e-80b4-4412-b2ec-2851acfdb1da" />
+
+2. Average Price of Products per Tag
+
+<img width="800" alt="14" src="https://github.com/user-attachments/assets/e7080ca9-2ee0-4e42-bc91-474b9ad33094" />
+
+<img width="710" alt="15" src="https://github.com/user-attachments/assets/25c4a886-edff-460f-84a0-d8307c0a863b" />
+
+<img width="721" alt="16" src="https://github.com/user-attachments/assets/f0437c65-045a-4f28-84c0-c36ad88a6431" />
+
+<img width="728" alt="17" src="https://github.com/user-attachments/assets/eca62816-b875-4273-b252-435f3a3a19a0" />
+
+<img width="714" alt="18" src="https://github.com/user-attachments/assets/07112af7-78ed-406c-b6ae-3596e87e3bfa" />
+
+3. Products Added in February 2023
+
+<img width="728" alt="19" src="https://github.com/user-attachments/assets/584f2bb5-f30f-42a5-93a7-10370eaa25ed" />
+
+<img width="728" alt="20" src="https://github.com/user-attachments/assets/f1f81ae2-e9ad-461a-af52-7e23046a7ec6" />
+
+<img width="728" alt="21" src="https://github.com/user-attachments/assets/89699f16-b429-4ed0-8e82-e58912e11bcc" />
+
+
+
 
