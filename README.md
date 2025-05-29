@@ -1,9 +1,9 @@
 # mongoDB  Aggregation Framework Assignment
-#EASY
+
 <img width="812" alt="1" src="https://github.com/user-attachments/assets/7c383943-e649-4d39-83c3-0ce8d1266796" />
 
 <img width="796" alt="2" src="https://github.com/user-attachments/assets/d884fe5d-36ea-41fe-81a4-73688375e69e" />
-
+EASY
 1. All Products in the "Electronics" Category
 <img width="799" alt="3" src="https://github.com/user-attachments/assets/9f1df2f6-5a86-4310-b11b-aa7ad11125b9" />
 
